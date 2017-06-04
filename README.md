@@ -1,2 +1,2 @@
 # AppDownloadList
-provide a list of game downloads
+provide a list of App downloads.
